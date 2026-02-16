@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "EN",
+  "base_artist": "UVERworld",
+  "createdAt": "2026-02-16T18:09:25.389017Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "LA FAMA (Live en el Palau Sant Jordi)",
+      "artist": "ROSALÍA",
+      "has_synced": true,
+      "path": "select/01_LA_FAMA_(Live_en_el_Palau_Sant_Jordi)_ROSALÍA.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Me Estoy Enamorando - en Vivo",
+      "artist": "Marca MP",
+      "has_synced": true,
+      "path": "select/02_Me_Estoy_Enamorando_-_en_Vivo_Marca_MP.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Les avions en papier",
+      "artist": "Bruno Coulais",
+      "has_synced": true,
+      "path": "select/03_Les_avions_en_papier_Bruno_Coulais.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "En la Cocina, Huevos",
+      "artist": "Miguel Mateos",
+      "has_synced": false,
+      "path": "select/04_En_la_Cocina,_Huevos_Miguel_Mateos.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Solos en América",
+      "artist": "Miguel Mateos",
+      "has_synced": true,
+      "path": "select/05_Solos_en_América_Miguel_Mateos.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "04 - Solos En América",
+      "artist": "Miguel Mateos",
+      "has_synced": true,
+      "path": "select/06_04_-_Solos_En_América_Miguel_Mateos.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Mi sombra en la pared",
+      "artist": "Miguel Mateos",
+      "has_synced": true,
+      "path": "select/07_Mi_sombra_en_la_pared_Miguel_Mateos.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "07 - Mi Sombra En La Pared",
+      "artist": "Miguel Mateos",
+      "has_synced": true,
+      "path": "select/08_07_-_Mi_Sombra_En_La_Pared_Miguel_Mateos.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Te Ví en un Tren",
+      "artist": "Los Enanitos Verdes",
+      "has_synced": true,
+      "path": "select/09_Te_Ví_en_un_Tren_Los_Enanitos_Verdes.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "10 - Te Ví En Un Tren",
+      "artist": "Los Enanitos Verdes",
+      "has_synced": true,
+      "path": "select/10_10_-_Te_Ví_En_Un_Tren_Los_Enanitos_Verdes.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Exilio en París",
+      "artist": "Miguel Mateos - ZAS",
+      "has_synced": false,
+      "path": "select/11_Exilio_en_París_Miguel_Mateos_-_ZAS.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "11 - Exilio En París",
+      "artist": "Miguel Mateos",
+      "has_synced": false,
+      "path": "select/12_11_-_Exilio_En_París_Miguel_Mateos.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Amanece En La Ruta",
+      "artist": "Fabiana Cantilo",
+      "has_synced": true,
+      "path": "select/13_Amanece_En_La_Ruta_Fabiana_Cantilo.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Bailando en las Veredas",
+      "artist": "Raul Porchetto",
+      "has_synced": true,
+      "path": "select/14_Bailando_en_las_Veredas_Raul_Porchetto.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Costumbres argentinas (en vivo)",
+      "artist": "Los Abuelos de la Nada",
+      "has_synced": true,
+      "path": "select/15_Costumbres_argentinas_(en_vivo)_Los_Abuelos_de_la_Nada.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Costumbres Argentinas - En Vivo",
+      "artist": "Los Abuelos De La Nada",
+      "has_synced": true,
+      "path": "select/16_Costumbres_Argentinas_-_En_Vivo_Los_Abuelos_De_La_Nada.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "De Cama en Cama",
+      "artist": "Instrucción Cívica",
+      "has_synced": false,
+      "path": "select/17_De_Cama_en_Cama_Instrucción_Cívica.txt"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "De Vez en Cuando la Vida",
+      "artist": "Joan Manuel Serrat",
+      "has_synced": false,
+      "path": "select/18_De_Vez_en_Cuando_la_Vida_Joan_Manuel_Serrat.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "EN",
+      "artist": "UVERworld",
+      "has_synced": false,
+      "path": "select/pl_01_EN_UVERworld.txt"
+    }
+  ]
+}
